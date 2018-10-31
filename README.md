@@ -8,5 +8,6 @@ bundle install
 ```
 After that excute this command. you can access and check a page on ```localhost:4000```
 ```
+jekyll build
 jekyll serve
 ```
